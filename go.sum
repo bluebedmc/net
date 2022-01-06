@@ -1,0 +1,4 @@
+github.com/bluebedmc/proto v0.0.0-20220106085051-9e7ab500a88b h1:2gQz9U2k6O/o+Nc2CxOrUnSHdl61rLwKlkqfeLec4jU=
+github.com/bluebedmc/proto v0.0.0-20220106085051-9e7ab500a88b/go.mod h1:u/50pnhVt+Y+wkazJhlBfyIdPviu9/GOm5EV+b+m4us=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
